@@ -12,7 +12,7 @@
 #menu {
     width: 20%;
     height: 600px;
-    background-color: aquamarine(185, 180, 174);
+    background-color:black (185, 180, 174);
     float: left;
     margin-top: 10px;
 
@@ -21,7 +21,7 @@
 #principal {
     width: 80%;
     height: 600px;
-    background-color: bisque;
+    background-color:bisque;
     float: left;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -37,5 +37,5 @@ p {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    color: blueviolet;
+    color:black;
 }
